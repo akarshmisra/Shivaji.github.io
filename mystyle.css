@@ -1,0 +1,22 @@
+.main{
+    float: right;
+    
+}
+img{
+    border: 2px solid black;
+}
+.chatrapati{
+    font-style: italic;
+    color: brown;
+}
+h1{
+    font-style: italic;
+}
+body{
+    background-color: #F7DC6F;
+}
+.links{
+    text-align: center;
+    background-color: black;
+    color: azure;
+}
